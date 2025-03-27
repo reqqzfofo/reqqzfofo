@@ -1,6 +1,6 @@
 ### Aprendiz em:
   <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="23"> PHP</li>
-  <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="23"> Python</li>
+  <li><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" width="23"> Python</li>
 <h3>Projetos ativos:</h3>
 <li> Social Network IFSP </li>
 <h3>Meios de contato:</h3>
