@@ -1,9 +1,9 @@
-### Desenvolvedor em:
-  <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="23"> PHP</li>
+### Aprendiz em:
+  <li><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" width="23"> Python & PHP</li>
 <h3>Projetos ativos:</h3>
-<li> Angouluaino </li>
+<li> Social Network IFSP </li>
 <h3>Meios de contato:</h3>
-<li>Discord: reqqzzz#1682</li>
+<li>Discord: eo_vieiraa__</li>
 <li>E-mail: reqqzfofo@gmail.com</li>
 
 ### Estatísticas:
